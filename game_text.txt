@@ -1,0 +1,3 @@
+Hi, and welcome to the WiCyS demo for our EOH 2021 game! The goal of this script is to give you a brief idea of what we've been working on for the past semester, though this does not include any of our planned artwork and all of the planned puzzles.
+
+To move on to the actual game, type "start" and hit enter! Otherwise, we haven't put in much effort for handling different inputs, so this message will loop infinitely until you type "start" exactly.
