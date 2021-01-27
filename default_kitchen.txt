@@ -1,0 +1,11 @@
+You saunter on into your kitchen, which is surprisingly large given that you're in a college student apartment. Adorned with classic-diner-black-and-white-checkered tiling, the cabinets and walls are varying shades of pinks, purples, and blue. It kind of works together.
+
+Options you have while in the kitchen:
+A: brew coffee
+B: make toast
+C: open cabinet
+D: open fridge
+E: move to the living room
+H: get a hint for what to do next
+
+(To select an option, type the corresponding letter and press enter. For example, to get a hint for what to do next, type "H" and press enter.)

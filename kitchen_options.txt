@@ -1,0 +1,9 @@
+Options you have while in the kitchen:
+A: brew coffee
+B: make toast
+C: open cabinet
+D: open fridge
+E: move to the living room
+H: get a hint for what to do next
+
+(To select an option, type the corresponding letter and press enter. For example, to get a hint for what to do next, type "H" and press enter.)

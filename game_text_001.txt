@@ -1,0 +1,11 @@
+You've been placed into your luxury apartment, which happens to be located on the top floor of ECEB. You've woken up one morning while lecture is happening, but are quite hungry. While you've turned on your lecture on your phone so you can get attendance credit and are half-listening, you set out on your apartment to do one important thing: make breakfast.
+
+You're currently sitting on the couch in your main living room. This luxury apartment is equipped with a coffee table, as well as some bookshelves which separate the couch/coffee table area from the computer room. This room also connects to your kitchen and bedroom.
+
+Options you can take while in the living room:
+A: move to the kitchen
+B: move to the bedroom
+C: interact with the computer
+H: get a hint for what to do next
+
+(To select an option, type the corresponding letter and press enter. For example, to get a hint for what to do next, type "H" and press enter.)

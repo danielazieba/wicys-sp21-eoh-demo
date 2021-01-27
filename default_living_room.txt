@@ -1,0 +1,9 @@
+You're currently sitting on the couch in your main living room. This luxury apartment is equipped with a coffee table, as well as some bookshelves which separate the couch/coffee table area from the computer room. This room also connects to your kitchen and bedroom.
+
+Options you can take while in the living room:
+A: move to the kitchen
+B: move to the bedroom
+C: interact with the computer
+H: get a hint for what to do next
+
+(To select an option, type the corresponding letter and press enter. For example, to get a hint for what to do next, type "H" and press enter.)

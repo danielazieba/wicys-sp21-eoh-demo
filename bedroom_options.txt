@@ -1,0 +1,7 @@
+Options you have while in the bedroom:
+A: lie down on your bed
+B: inspect the whiteboard
+C: move to the main room
+H: get a hint for what to do next
+
+(To select an option, type the corresponding letter and press enter. For example, to get a hint for what to do next, type "H" and press enter.)
