@@ -60,11 +60,6 @@ living_room_opt = living_room_opt_file.read()
 living_room_opt_file.close()
 
 while not password_unlocked:    
-    # starter living room
-  #  while (curr_text not in possible_options_living_room):
-  #      print(buffer_text)
-  #      curr_text = input("Invalid option selected!" + "\n\n\n" + starter_text_001 + "\n\n\n" + "Your input: ")
-    # check for options
     if curr_location == "livingroom":
         if curr_text == "A":
             curr_text = buffer_text + intro_kitchen_text + "\n\n\n" + "Your input: "
@@ -73,7 +68,6 @@ while not password_unlocked:
             curr_text = buffer_text + bedroom_text + "\n\n\n" + bedroom_opt + "\n\n\n" + "Your input: "
             curr_location = "bedroom"
         elif curr_text == "C":
-          # curr_text = buffer text + "You try to log onto your computer so you can browse cooking videos, but it seems to be locked."
             curr_text = buffer_text + "You try to log on to your computer to browse cooking videos, but it seems to be locked." + "\n\n\n" + "Options: either type your password guess, X to exit computer screen, or H for hint.\n\n" + "What is the password? "
             curr_location = "computer"
         elif curr_text == "H":
